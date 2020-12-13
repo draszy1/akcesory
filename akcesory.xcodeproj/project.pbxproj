@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		EA5A6C05258642A60047C07C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5A6C04258642A60047C07C /* main.swift */; };
 		EA5A6C0D258642F70047C07C /* StrukturaA.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5A6C0C258642F70047C07C /* StrukturaA.swift */; };
+		EA5A6C1425864B570047C07C /* StrukturaB.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5A6C1325864B570047C07C /* StrukturaB.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		EA5A6C01258642A60047C07C /* akcesory */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = akcesory; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA5A6C04258642A60047C07C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EA5A6C0C258642F70047C07C /* StrukturaA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrukturaA.swift; sourceTree = "<group>"; };
+		EA5A6C1325864B570047C07C /* StrukturaB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrukturaB.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 			isa = PBXGroup;
 			children = (
 				EA5A6C0C258642F70047C07C /* StrukturaA.swift */,
+				EA5A6C1325864B570047C07C /* StrukturaB.swift */,
 			);
 			path = struktury;
 			sourceTree = "<group>";
@@ -132,6 +135,7 @@
 			files = (
 				EA5A6C0D258642F70047C07C /* StrukturaA.swift in Sources */,
 				EA5A6C05258642A60047C07C /* main.swift in Sources */,
+				EA5A6C1425864B570047C07C /* StrukturaB.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

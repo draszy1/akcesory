@@ -1,13 +1,9 @@
-//
-//  main.swift
-//  akcesory
-//
-//  Created by Szymon Drawski on 13/12/2020.
-//
-
 import Foundation
 
-var s = StrukturaA()
+var sA = StrukturaA()
+var sB = StrukturaB()
 
-s.hello();
+sA.hello()
+print(" ")
+sB.man()
 
